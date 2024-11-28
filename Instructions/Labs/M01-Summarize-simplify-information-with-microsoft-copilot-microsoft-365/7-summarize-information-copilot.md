@@ -7,7 +7,7 @@ Al confronto, Copilot disponibile nelle app di Microsoft 365 come Word o PowerPo
 
 - Usare Microsoft 365 Business Chat nelle versioni desktop e per dispositivi mobili di Microsoft Teams. Vedere [Usare Microsoft 365 Business Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)
 
-- Accedere a Microsoft 365 Business Chat all'indirizzo Microsoft.com/copilot. Consultare [Usare Microsoft 365 Business Chat all'indirizzo Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- Accedere a Microsoft 365 Business Chat all'indirizzo Microsoft.com/copilot. Vedere [Usare Microsoft 365 Business Chat all'indirizzo Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
 
 ![Screenshot dell'esperienza chat di Copilot in Teams](../media/copilot-chat-experience-teams.png)
 

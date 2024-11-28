@@ -25,7 +25,7 @@ In questa semplice richiesta, si inizia con l'**Obiettivo** di base _di riepilog
 | Richiesta di base: <br>Iniziare da un **Obiettivo** | **Crea un riepilogo di questa presentazione di PowerPoint.** |
 | Buona richiesta: <br>Aggiungere **Contesto** | L'aggiunta di **Contesto** può aiutare Copilot a comprendere lo scopo del riepilogo e personalizzare la risposta di conseguenza.<br><br>“_...per il mio capo, includendo una panoramica dei punti principali prima dell'incontro con il cliente._" |
 | Richiesta migliore: <br>Specificare la/le **Fonte/i** | L'aggiunta di **Fonti** può aiutare Copilot a comprendere quale presentazione o parte di essa deve essere riepilogata e fornire una risposta più accurata.<br><br>“_...diapositive da 5 a 10 di questa presentazione di PowerPoint..._" |
-| Richiesta ottimale: <br>Stabilire delle **aspettative** chiare | Infine, l'aggiunta di **Aspettative** può aiutare Copilot a comprendere come formattare il riepilogo e quale livello di dettaglio è necessario.<br><br>"_Formatta i punti principali come un elenco puntato e usa un tono professionale._" |
+| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, l'aggiunta di **Aspettative** può aiutare Copilot a comprendere come formattare il riepilogo e quale livello di dettaglio è necessario.<br><br>"_Formatta i punti principali come un elenco puntato e usa un tono professionale._" |
 
 > [!NOTE]
 > **Richiesta creata**:
