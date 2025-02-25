@@ -15,7 +15,7 @@ Seguendo questa procedura è possibile trasformare rapidamente un intervallo di 
 
 1. Selezionare **OK**.
 
-![Screenshot del pannello Copilot in Excel alla prima apertura.](../media/copilot-pane-Excel.png)
+![Screenshot del pannello Copilot in Excel alla prima apertura.](../media/copilot-pane-excel.png)
 
 ## Iniziamo a creare
 
