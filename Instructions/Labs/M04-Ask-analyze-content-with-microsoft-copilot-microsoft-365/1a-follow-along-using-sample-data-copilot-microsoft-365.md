@@ -16,6 +16,9 @@ Seguire questa procedura per caricare tutti i file necessari in **OneDrive**:
 3. Nella barra degli indirizzi, immettere `https://www.office.com`.
 4. In **Ti diamo il benvenuto in Microsoft 365**, selezionare **Accedi**.
 5. Nella **richiesta di accesso**, immettere `userx@yourtenant.onmicrosoft.com` (nome utente e tenant fornito dal tenant specificato) e selezionare **Avanti**.
+
+    [![Screenshot del riquadro delle risorse in Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    
 6. Nella schermata**Immettere la password**, immettere la password (fornita dal provider del tenant) per l'account utente e quindi selezionare **Accedi**.
 7. Se viene richiesto se **Rimanere connessi?**, selezionare **Non visualizzare più quetsto messaggio** e quindi **Sì**.
 8. In **Microsoft 365**, selezionare **App**.
