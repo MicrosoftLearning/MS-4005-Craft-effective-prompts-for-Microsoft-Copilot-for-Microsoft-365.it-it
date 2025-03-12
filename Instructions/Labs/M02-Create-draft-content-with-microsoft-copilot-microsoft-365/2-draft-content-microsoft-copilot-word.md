@@ -1,7 +1,8 @@
+# Scrivere la bozza di lettere di motivazione, piani di marketing e strutture con Microsoft 365 Copilot in Word
 
 Per iniziare a usare Microsoft 365 Copilot in Word, è possibile aprire il riquadro **Copilot** selezionando l'icona Copilot nella scheda **Home** della barra multifunzione o iniziare a scrivere direttamente all'interno del documento.
 
-![Screenshot dell'icona Copilot nella barra multifunzione di Word.](../media/copilot-ribbon-word.png)
+![Screenshot dell'icona Copilot nella barra multifunzione di Word.](../media/create_copilot-ribbon-word.png)
 
 Per iniziare la stesura direttamente nel corpo del documento:
 
@@ -13,7 +14,7 @@ Per iniziare la stesura direttamente nel corpo del documento:
 
 Dopo che Copilot ha generato il contenuto, selezionare **Mantienilo** per mantenere il contenuto, **Rigenera** per rigenerare una risposta, **Rimuovi** per rimuovere il contenuto oppure ottimizzare la bozza immettendo i dettagli nella casella di composizione, ad esempio "_Rendilo più conciso_".
 
-![Screenshot della barra delle opzioni dopo aver usato Bozza con Copilot in Word.](../media/copilot-prompt-box-word.png)
+![Screenshot della barra delle opzioni dopo aver usato Bozza con Copilot in Word.](../media/create_copilot-prompt-box-word.png)
 
 Nell'esempio seguente, un prompt di base per Copilot in Word viene trasformato in un prompt contestuale ben strutturato, che fornisce esclusivamente le informazioni necessarie, nel formato richiesto.
 
@@ -32,21 +33,19 @@ In questa semplice richiesta si inizia con l'**Obiettivo** di base: _creare una 
 
 | Elemento | Esempio |
 | :------ | :------- |
-| Richiesta di base: <br>Iniziare da un **Obiettivo** | **_Scrivi la bozza di una proposta di marketing._** |
-| Buona richiesta: <br>Aggiungere **Contesto** | L'aggiunta di **Contesto** consente a Copilot di comprendere il tipo di documento da creare e il relativo utilizzo.<br><br>"_... per il prodotto più recente di Contoso: CipherGuard. Dobbiamo generare tre idee per una campagna di marketing..._" |
-| Richiesta migliore: <br>Specificare la/le **Fonte/i** | L'aggiunta di **Origini** può aiutare Copilot a cercare informazioni specifiche.<br><br>“_...utilizzando le specifiche e i requisiti del prodotto._" |
-| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, l'inclusione di **Aspettative** può aiutare Copilot a comprendere lo stile e la formattazione desiderati per il documento.<br><br>"_Includi una breve panoramica del prodotto, i vantaggi e gli svantaggi di ogni idea e la previsione del ROI. Mantieni il documento su due pagine e usa un linguaggio ottimistico e convincente._" |
+| **Richiesta di base:** iniziare con un **obiettivo** | **_Scrivi la bozza di una proposta di marketing._** |
+| **Buona richiesta:** aggiungere **contesto** | L'aggiunta di **Contesto** consente a Copilot di comprendere il tipo di documento da creare e il relativo utilizzo. _"... per il prodotto più recente di Contoso: CipherGuard. Dobbiamo generare tre idee per una campagna di marketing..."_ |
+| **Richiesta migliore:** specificare le **origini** | Aggiungendo le **Origini** si può aiutare Copilot a capire dove cercare informazioni specifiche. _"...utilizzando le specifiche e i requisiti del prodotto."_ |
+| **Richiesta ottimale:** impostare **aspettative** chiare | Infine, l'inclusione di **Aspettative** può aiutare Copilot a comprendere lo stile e la formattazione desiderati per il documento. _"Includi una breve panoramica del prodotto, i vantaggi e gli svantaggi di ogni idea e la proiezione ROI. Mantieni il documento su due pagine e usa un linguaggio ottimistico e convincente."_ |
 
 > [!NOTE]
 > **Richiesta creata**:
 >
 > _Scrivi la bozza di una proposta di marketing per il prodotto più recente di Contoso: CipherGuard. Dobbiamo generare tre idee per una campagna di marketing utilizzando le specifiche e i requisiti del prodotto. Includi una breve panoramica del prodotto, i vantaggi e gli svantaggi di ogni idea e la previsione del ROI. Mantieni il documento su due pagine e usa un linguaggio ottimistico e convincente._
 
-[![Screenshot dei risultati della richiesta creati nel documento di esempio usando Copilot in Word.](../media/copilot-draft-results-word.png)](../media/copilot-draft-results-word.png#lightbox)
-
 Esaminare i risultati della richiesta e completarla con eventuali domande o miglioramenti, quindi aggiungerli alla fine del documento in una nuova sezione. **Salvare** il file in modo che possa essere usato in un secondo momento.
 
-Questo prompt fornisce a Copilot tutte le informazioni necessarie per elaborare una buona risposta, compresi gli elementi di **Obiettivo**, **Contesto**, **Origine** e **Aspettative**. 
+Questo prompt fornisce a Copilot tutte le informazioni necessarie per elaborare una buona risposta, compresi gli elementi di **Obiettivo**, **Contesto**, **Origine** e **Aspettative**.
 
 ### Riferimenti alle fonti
 

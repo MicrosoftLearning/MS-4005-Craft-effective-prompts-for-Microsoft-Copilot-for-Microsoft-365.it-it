@@ -1,10 +1,12 @@
+# Riepilogo
+
 In questo modulo sono state fornite informazioni su Microsoft 365 Copilot in varie applicazioni di Microsoft 365, ad esempio Word, PowerPoint, Excel, Teams, Outlook e chat. Copilot è uno strumento basato sull'intelligenza artificiale che supporta attività come la generazione di riepiloghi, la ricerca di informazioni specifiche, la generazione di idee, tabelle o elenchi e l'analisi dei dati. Per creare una richiesta efficace con Copilot che restituisca i risultati desiderati, è importante fornire **obiettivi**, **contesto**, **origini** e **aspettative** chiari nelle richieste.
 
 Gli aspetti principali appresi in questo modulo confermano che Microsoft 365 Copilot è uno strumento prezioso per migliorare la produttività e l'efficienza in varie applicazioni Microsoft. Quando si creano richieste efficaci fin dall'inizio, Copilot può fornire risposte accurate e pertinenti alle query e supportare il raggiungimento degli obiettivi.
 
 ## Risorse principali
 
-- [Ti diamo il benvenuto in Copilot in Word](https://support.microsoft.com/en-us/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
+- [Ti diamo il benvenuto in Copilot in Word](https://support.microsoft.com/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
 
 - [Ti diamo il benvenuto in Copilot in PowerPoint](https://support.microsoft.com/office/welcome-to-copilot-in-powerpoint-57133c75-24c0-4519-8096-d0dadf25fb8d)
 

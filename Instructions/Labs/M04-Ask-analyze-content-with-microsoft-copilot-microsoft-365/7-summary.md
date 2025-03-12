@@ -1,3 +1,4 @@
+# Riepilogo
 
 In questo modulo si è appreso come creare richieste efficaci per Microsoft 365 Copilot per richiedere informazioni all'interno di documenti e file Microsoft. Si sono anche apprese informazioni su Microsoft 365 Copilot e sulle varie funzionalità in diverse applicazioni Microsoft. Esso genera informazioni dettagliate e suggerimenti basati su file, documenti, chat e riunioni. Questo modulo ha fornito le conoscenze e le tecniche per creare richieste che producano risultati accurati e utili da Microsoft 365 Copilot.
 

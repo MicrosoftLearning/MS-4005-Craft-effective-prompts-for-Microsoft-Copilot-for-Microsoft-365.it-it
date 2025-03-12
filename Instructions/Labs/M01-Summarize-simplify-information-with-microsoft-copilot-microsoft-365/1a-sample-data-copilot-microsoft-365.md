@@ -1,14 +1,16 @@
+# Esercizio - Seguire l'uso di dati di esempio con Microsoft 365 Copilot
+
 In questo modulo verranno create richieste per Microsoft 365 Copilot che fanno riferimento a questi file:
 
 - [Rapporto dell'analisi di mercato su Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
-- [Contoso Chai Tea Market Trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
-- [Contoso Chai Tea Market Trends 2023.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
-- [Market Trend Report - Protein Shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
+- [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
+- [Contoso Chai Tea market trends 2023.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
+- [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 - [Presentazione analisi di mercato su Mystic Spice Premium Chai.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)
 
 **Nota**: questi sono i file a cui faremo riferimento in tutto il modulo. Per questo lab, tuttavia, si inizierà caricando tutti i file in **OneDrive** per assicurarsi che siano accessibili per le richieste di Copilot in un secondo momento.
 
-### Caricare i file in OneDrive
+## Caricare i file in OneDrive
 
 Seguire questa procedura per caricare tutti i file necessari in **OneDrive**:
 
@@ -33,11 +35,11 @@ Seguire questa procedura per caricare tutti i file necessari in **OneDrive**:
 13. Al termine del caricamento, nella parte inferiore della schermata dovrebbe essere visualizzato **29 elementi caricati in I miei file**.
 14. Lasciare aperto **Edge** e passare all'attività successiva.
 
-### Riferimento ai file in Copilot
+### Riferimento ai file
 
-Quando si usa Copilot, è possibile che alcuni file non siano immediatamente disponibili nei suggerimenti. Ciò si verifica perché alcune esperienze Copilot fanno riferimento solo ai file dall'elenco **Usati di recente (MRU),** mentre altre consentono di esplorare direttamente **OneDrive**. Per assicurarsi che un file venga visualizzato nell'elenco **MRU**, è sufficiente aprirlo nell'app Microsoft 365 pertinente e verrà aggiunto automaticamente.
+Quando si fa riferimento ai file da Copilot, è possibile che alcuni file non vengano trovati tra quelli suggeriti. A volte questo accade perché alcune esperienze con Copilot fanno riferimento solo ai file dall'elenco Usati di recente (MRU), mentre altre consentono di esplorare OneDrive per trovare il file. Aggiungerli a tale elenco è semplice come aprirli nell'app di Microsoft 365 appropriata.  Una volta aperti, dovrebbero essere visualizzati nell'elenco dei file usati di recente.
 
 > [!IMPORTANT]
-> Microsoft 365 Copilot funzionerà solo con i file salvati in **OneDrive**. I file archiviati localmente nel PC dovranno essere spostati in **OneDrive** affinché Copilot possa accedervi.
+> Microsoft 365 Copilot funzionerà solo con i file salvati in OneDrive. Se i file sono archiviati localmente nel PC, dovranno essere spostati in OneDrive per attivare Copilot.
 
-Durante l'avanzamento all'interno del modulo, sarà possibile provare varie richieste su questi file. È possibile sperimentare diversi approcci per migliorare le competenze con Copilot.
+Procedendo all'interno del modulo, si avrà l'opportunità di provare altri prompt su questi file e si consiglia di farlo per esplorare e migliorare le proprie competenze nell'ambito dei prompt.

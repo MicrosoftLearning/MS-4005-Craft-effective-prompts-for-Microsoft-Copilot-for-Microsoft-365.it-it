@@ -1,6 +1,8 @@
+# Introduzione
+
 In questo modulo gli studenti apprenderanno come elaborare richieste contestuali efficaci per Microsoft 365 Copilot al fine di **creare** informazioni in app di Microsoft 365. Se si vogliono migliorare le competenze per le richieste per Copilot, questo modulo fornisce le conoscenze e le tecniche per creare richieste che producono risultati accurati e utili da Microsoft 365 Copilot.
 
-L'obiettivo di questo modulo è la **redazione**, la **creazione** e la **compilazione** di informazioni usando app di Microsoft 365 Copilot, come ad esempio **Word**, **PowerPoint**, **Teams**, **Outlook** e altre. Gli studenti apprenderanno come usare queste funzionalità di creazione di base, ma anche come creare una richiesta efficiente contenente tutti gli elementi per generare i risultati desiderati.
+L'obiettivo di questo modulo è la **redazione**, la **creazione** e la **compilazione** di informazioni usando Microsoft 365 Copilot in diverse App di Microsoft 365, come ad esempio **Word**, **PowerPoint**, **Teams**, **Outlook** e altre. Gli studenti apprenderanno come usare queste funzionalità di creazione di base, ma anche come creare una richiesta efficiente contenente tutti gli elementi per generare i risultati desiderati.
 
 > [!IMPORTANT]
 > Molte delle funzionalità di Copilot descritte in questo modulo sono disponibili solo per la clientela con una licenza di Microsoft 365 Copilot o una licenza Copilot Pro. Tuttavia, le strategie impiegate per creare richieste migliori possono essere usate con qualsiasi modello linguistico di grandi dimensioni (LLM) basato su chat.

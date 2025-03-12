@@ -1,10 +1,12 @@
+# Ottenere suggerimenti per la progettazione e l'organizzazione con Microsoft 365 Copilot in PowerPoint
+
 Per iniziare a chattare con Copilot in PowerPoint, aprire il riquadro **Copilot** selezionando l'icona Copilot nella scheda **Home** della barra multifunzione.
 
-![Screenshot dell'icona Copilot nella barra multifunzione di PowerPoint.](../media/copilot-ribbon-powerpoint.png)
+![Screenshot dell'icona Copilot nella barra multifunzione di PowerPoint.](../media/ask_copilot-ribbon-powerpoint.png)
 
-Durante la creazione di una presentazione, è possibile che non si abbia la certezza di come organizzare le diapositive in sezioni. Copilot in PowerPoint può essere utile. È possibile chiedere a Copilot di organizzare la presentazione. Le organizza in sezioni e quindi aggiunge le diapositive dell'intestazione di sezione. 
+Durante la creazione di una presentazione, è possibile che non si abbia la certezza di come organizzare le diapositive in sezioni. Copilot in PowerPoint può essere utile. È possibile chiedere a Copilot di organizzare la presentazione. Le organizza in sezioni e quindi aggiunge le diapositive dell'intestazione di sezione.
 
-![Screenshot del pannello Copilot in PowerPoint alla prima apertura.](../media/copilot-pane-powerpoint.png)
+![Screenshot del pannello Copilot in PowerPoint alla prima apertura.](../media/ask_copilot-pane-powerpoint.png)
 
 1. Selezionare il pulsante Copilot nella barra multifunzione.
 
@@ -14,7 +16,7 @@ Durante la creazione di una presentazione, è possibile che non si abbia la cert
 
 1. Selezionare **Invia**.
 
-Se quello che fa Copilot non piace, è possibile semplicemente selezionare il **pulsante Annulla** sulla barra multifunzione per ripristinare lo stato precedente della raccolta. 
+Se quello che fa Copilot non piace, è possibile semplicemente selezionare il **pulsante Annulla** sulla barra multifunzione per ripristinare lo stato precedente della raccolta.
 
 ## Iniziamo a creare
 
@@ -32,17 +34,15 @@ In questa semplice richiesta, si inizia con l'**obiettivo** di base: _organizzar
 
 | Elemento | Esempio |
 | :------ | :------- |
-| Richiesta di base: <br>Iniziare da un **Obiettivo** | **Organizzare questa presentazione in PowerPoint.** |
-| Buona richiesta: <br>Aggiungere **Contesto** | Aggiungendo **Contesto** si può aiutare Copilot a capire come si vuole organizzare la presentazione e perché.<br><br>"_per una revisione esecutiva del prodotto la prossima settimana_" |
-| Richiesta migliore: <br>Specificare la/le **Fonte/i** | Aggiungendo le **origini** è possibile aiutare Copilot ad eseguire una ricerca in una posizione specifica, ad esempio nelle specifiche di prodotto o in un catalogo.<br><br>"_Fare riferimento a **/Mystic Spice Premium Chai Tea product description.docx** per informazioni sul prodotto._" |
-| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, aggiungendo le **Aspettative** si può aiutare Copilot a capire come strutturare la presentazione e il livello di dettaglio da includere.<br><br>"_Disporre le diapositive per prodotto e includere una panoramica, un elenco di caratteristiche e vantaggi chiave, il feedback dei clienti e un confronto con prodotti simili sul mercato._" |
+| **Richiesta di base:** iniziare con un **obiettivo** | **Organizzare questa presentazione in PowerPoint.** |
+| **Buona richiesta:** aggiungere **contesto** | Aggiungendo **Contesto** si può aiutare Copilot a capire come si vuole organizzare la presentazione e perché. _"per una revisione esecutiva del prodotto la prossima settimana"_ |
+| **Richiesta migliore:** specificare le **origini** | Aggiungendo le **origini** è possibile aiutare Copilot ad eseguire una ricerca in una posizione specifica, ad esempio nelle specifiche di prodotto o in un catalogo. _"Fare riferimento a **/Mystic Spice Premium Chai Tea product description.docx** per informazioni sul prodotto."_ |
+| **Richiesta ottimale:** impostare **aspettative** chiare | Infine, aggiungendo le **Aspettative** si può aiutare Copilot a capire come strutturare la presentazione e il livello di dettaglio da includere. _"Disponi le diapositive per prodotto e includi una panoramica, un elenco di caratteristiche e vantaggi chiave, il feedback della clientela e un confronto con prodotti simili sul mercato."_ |
 
 > [!NOTE]
 > **Richiesta creata**:
 >
 > _Organizzare questa presentazione per una revisione esecutiva del prodotto la prossima settimana. Per informazioni sul prodotto, fare riferimento a **/Mystic Spice Premium Chai Tea product description.docx**. Disporre le diapositive per prodotto e includere una panoramica, un elenco di caratteristiche e vantaggi chiave, il feedback dei clienti e un confronto con prodotti simili sul mercato._
-
-[![Eseguire uno screenshot dei risultati della richiesta creata rispetto alla presentazione di esempio usando Copilot in PowerPoint.](../media/copilot-organize-results-powerpoint.png)](../media/copilot-organize-results-powerpoint.png#lightbox)
 
 In questa richiesta vengono forniti l'**Obiettivo**, il **Contesto**, la **Fonte** e le **Aspettative**, offrendo a Copilot istruzioni sufficienti per generare una risposta che soddisfi le proprie esigenze.
 

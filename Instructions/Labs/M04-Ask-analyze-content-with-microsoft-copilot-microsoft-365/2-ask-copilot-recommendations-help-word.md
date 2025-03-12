@@ -1,11 +1,12 @@
+# Richiedere assistenza e consigli a Microsoft 365 Copilot in Word
 
-Per chattare con Copilot in Word, aprire il riquadro **Copilot** selezionando l'icona Copilot nella scheda **Home** della barra multifunzione. 
+Per chattare con Copilot in Word, aprire il riquadro **Copilot** selezionando l'icona Copilot nella scheda **Home** della barra multifunzione.
 
-![Screenshot dell'icona Copilot nella barra multifunzione di Word.](../media/copilot-ribbon-word.png)
+![Screenshot dell'icona Copilot nella barra multifunzione di Word.](../media/ask_copilot-ribbon-word.png)
 
 Oltre a creare contenuti o generare idee, Copilot in Word è in grado di rispondere alle domande sul documento che si sta leggendo. Quando Copilot risponde alla richiesta dell'utente, è anche possibile visualizzare i riferimenti con citazioni da cui Copilot ha estratto le informazioni nel documento.
 
-![Screenshot del pannello Copilot in Word alla prima apertura.](../media/copilot-pane-word.png)
+![Screenshot del pannello Copilot in Word alla prima apertura.](../media/ask_copilot-pane-word.png)
 
 ## Porre domande su questo documento
 
@@ -15,7 +16,7 @@ Oltre a creare contenuti o generare idee, Copilot in Word è in grado di rispond
 
 ## Fare domande aperte
 
-Si desidera aggiungere dei contenuti o contesti al documento? Fare domande generali a Copilot e proverà a rispondere. Ad esempio: 
+Si desidera aggiungere dei contenuti o contesti al documento? Fare domande generali a Copilot e proverà a rispondere. Ad esempio:
 
 - Come è possibile modificare questo documento per farlo sembrare più accademico?
 
@@ -38,17 +39,17 @@ In questa semplice richiesta, si parte dall'**obiettivo** di base: _trovare un i
 
 | Elemento | Esempio |
 | :------ | :------- |
-| Richiesta di base: <br>Iniziare da un **Obiettivo** | **_C'è un invito all'azione?_** |
-| Buona richiesta: <br>Specificare la/le **Fonte/i** | L'aggiunta di **Origini** può aiutare Copilot a cercare informazioni specifiche.<br><br>"_... in questo rapporto di analisi del mercato..._" |
-| Richiesta migliore: <br>Aggiungere **Contesto** | L'aggiunta di **contesto** consente a Copilot di offrire una risposta più personalizzata tenendolo in considerazione.<br><br>"_... per affrontare le nostre sfide e preoccupazioni. Verificare se il piano di marketing include un piano d'azione chiaro e specifico, ad esempio un piano promozionale o uno sconto per un periodo di tempo limitato._" |
-| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, l'aggiunta di **aspettative** può aiutare Copilot a capire cosa è esattamente necessario, invece di fornire solo una semplice risposta _affermativa_ o _negativa_.<br><br>"_Fornire suggerimenti per migliorare l'invito all'azione, se necessario._" |
+| **Richiesta di base:** iniziare con un **obiettivo** | **_C'è un invito all'azione?_** |
+| **Buona richiesta:** specificare le **origini** | L'aggiunta di **Origini** può aiutare Copilot a cercare informazioni specifiche. _"... in questo rapporto di analisi del mercato..."_ |
+| **Richiesta migliore:** aggiungere **contesto** | L'aggiunta di **contesto** consente a Copilot di offrire una risposta più personalizzata tenendolo in considerazione. _"... per affrontare le nostre sfide e preoccupazioni. Verifica se il piano di marketing include un piano d'azione chiaro e specifico, ad esempio un piano promozionale o uno sconto per un periodo di tempo limitato."_ |
+| **Richiesta ottimale:** impostare **aspettative** chiare | Infine, l'aggiunta di **aspettative** può aiutare Copilot a capire cosa è esattamente necessario, invece di fornire solo una semplice risposta _affermativa_ o _negativa_. _"Fornire suggerimenti per migliorare l'invito all'azione, se necessario."_ |
 
 > [!NOTE]
 > **Richiesta creata**:
 >
 > _C'è un invito all'azione in questa relazione di analisi del mercato per affrontare le nostre sfide e preoccupazioni? Verificare se il piano di marketing include un piano d'azione chiaro e specifico, ad esempio un piano promozionale o uno sconto a tempo limitato. Se necessario, fornire suggerimenti per migliorare l'invito all'azione._
 
-[![Screenshot dei risultati della richiesta creata nel documento di esempio usando Copilot in Word.](../media/copilot-prompt-results-word.png)](../media/copilot-prompt-results-word.png#lightbox)
+![Screenshot dei risultati della richiesta creata nel documento di esempio usando Copilot in Word.](../media/ask_copilot-prompt-results-word.png)
 
 Questo prompt fornisce a Copilot tutte le informazioni necessarie per elaborare una buona risposta, compresi gli elementi di **Obiettivo**, **Contesto**, **Origine** e **Aspettative**.
 

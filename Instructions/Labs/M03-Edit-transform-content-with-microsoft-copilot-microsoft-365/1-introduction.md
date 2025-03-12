@@ -1,6 +1,8 @@
+# Introduzione
+
 In questo modulo gli studenti apprenderanno come creare le bozze di richieste efficaci e adatte al contesto per Microsoft 365 Copilot per **trasformare** documenti, dati e testo in app di Microsoft 365. Se si vogliono migliorare le competenze di richiesta per Copilot, questo modulo fornisce le conoscenze e le tecniche per creare richieste che producono risultati accurati e utili da Microsoft 365 Copilot.
 
-L'obiettivo di questo modulo è **modificare**, **trasformare** e **riscrivere** le informazioni usando Copilot nelle app di Microsoft 365, ad esempio **Word**, **PowerPoint**, **Excel**, **Outlook** e altre. Gli studenti apprenderanno come usare queste funzionalità di trasformazione di base sfruttando l'intelligenza artificiale, ma anche come creare una richiesta efficiente contenente tutti gli elementi per generare i risultati desiderati.
+L'obiettivo di questo modulo è **modificare**, **trasformare** e **riscrivere** le informazioni usando Copilot in diverse App di Microsoft 365, ad esempio **Word**, **PowerPoint**, **Excel**, **Outlook** e altre. Gli studenti apprenderanno come usare queste funzionalità di trasformazione di base sfruttando l'intelligenza artificiale, ma anche come creare una richiesta efficiente contenente tutti gli elementi per generare i risultati desiderati.
 
 > [!IMPORTANT]
 > Molte delle funzionalità di Copilot descritte in questo modulo sono disponibili solo per la clientela con una licenza di Microsoft 365 Copilot o una licenza Copilot Pro. Tuttavia, le strategie impiegate per creare richieste migliori possono essere usate con qualsiasi modello linguistico di grandi dimensioni (LLM) basato su chat.

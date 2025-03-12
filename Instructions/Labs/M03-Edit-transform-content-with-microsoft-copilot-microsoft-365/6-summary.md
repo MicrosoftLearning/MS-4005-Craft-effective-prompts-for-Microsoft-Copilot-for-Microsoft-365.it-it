@@ -1,11 +1,12 @@
+# Riepilogo
 
 In questo modulo, gli studenti hanno appreso informazioni su Microsoft 365 Copilot e sulle relative funzionalità trasformative nelle app di Microsoft 365, ad esempio:
 
-- Copilot in Word può riscrivere il testo e trasformarlo in una tabella modificabile. 
+- Copilot in Word può riscrivere il testo e trasformarlo in una tabella modificabile.
 
-- Copilot in PowerPoint può supportare l'aggiunta di diapositive alla presentazione e migliorarle con le immagini. 
+- Copilot in PowerPoint può supportare l'aggiunta di diapositive alla presentazione e migliorarle con le immagini.
 
-- Copilot in Excel consente agli utenti di evidenziare, ordinare e filtrare le tabelle per concentrarsi su informazioni importanti. 
+- Copilot in Excel consente agli utenti di evidenziare, ordinare e filtrare le tabelle per concentrarsi su informazioni importanti.
 
 - Copilot in Outlook fornisce suggerimenti per migliorare il tono, la chiarezza e la valutazione del lettore dei messaggi di posta elettronica con Coaching di Copilot.
 
