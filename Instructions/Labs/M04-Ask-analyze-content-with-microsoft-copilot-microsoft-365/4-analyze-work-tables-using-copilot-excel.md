@@ -1,5 +1,6 @@
+# Analizzare e servirsi delle tabelle usando Microsoft 365 Copilot in Excel
 
-Se non si ha la certezza di come scrivere una formula per una nuova colonna, Microsoft 365 Copilot può aggiungere rapidamente nuove colonne con formule basate sui dati. 
+Se non si ha la certezza di come scrivere una formula per una nuova colonna, Microsoft 365 Copilot può aggiungere rapidamente nuove colonne con formule basate sui dati.
 
 1. Con i dati formattati come tabella, selezionare il pulsante **Copilot** sulla barra multifunzione.
 
@@ -21,34 +22,34 @@ Aprire il foglio di calcolo in Excel e il riquadro **Copilot** selezionando la r
 > [!NOTE]
 > Richiesta iniziale:
 >
-> _Spiegare questa formula._
+> _Suggerire una colonna della formula._
 
-In questa semplice richiesta si inizia con l'**Obiettivo** di base: _spiegare una formula di Excel._ Copilot, tuttavia, non sa quale formula o quale altro contenuto non si comprende.
+In questa semplice richiesta si inizia con l'**obiettivo** di base: _creare una nuova colonna con una formula._ Tuttavia, non sono disponibili dettagli sufficienti per determinare cosa dovrebbe calcolare la formula.  
 
 | Elemento | Esempio |
 | :------ | :------- |
-| Richiesta di base: <br>Iniziare da un **Obiettivo** | **_Spiegare questa formula._** |
-| Buona richiesta: <br>Aggiungere **Contesto** | Aggiungendo **Contesto** si aiuta Copilot a capire meglio ciò che non è chiaro della formula.<br><br>"_Dobbiamo capire come calcola l'engagement degli utenti._" |
-| Richiesta migliore: <br>Specificare la/le **Fonte/i** | Si suppone che l'**origine** di questa richiesta sia la tabella che si sta utilizzando in Excel, ma è possibile essere più specifici.<br><br>"_...dalla colonna J della tabella 'Table1' nel foglio di calcolo di Excel._" |
-| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, aggiungendo le **Aspettative** si può aiutare Copilot a capire come si desidera che la formula venga spiegata nel dettaglio.<br><br>"_Fornire una spiegazione dettagliata della formula, inclusi gli argomenti e la sintassi relativi. Suggerire formule aggiuntive utili per determinare il ritorno sull'investimento"_. |
+| **Richiesta di base:** iniziare con un **obiettivo** | **_Suggerire una colonna della formula._** |
+| **Buona richiesta:** aggiungere **contesto** | L'aggiunta di **contesto** consente a Copilot di comprendere cosa deve calcolare la formula. _"...in modo che la colonna J determini il rapporto di engagement di ogni campagna"._ |
+| **Richiesta migliore:** specificare le **origini** | L'**origine** di questa richiesta è la colonna specifica necessaria per il calcolo. _"...deve usare i valori di "Utenti con engagement" e "Utenti di destinazione totali"._ |
+| **Richiesta ottimale:** impostare **aspettative** chiare | L'aggiunta di **aspettative** consente a Copilot di strutturare correttamente la formula. _"Assicurarsi che la formula divida gli "Utenti con engagement" dagli "Utenti di destinazione totali" e formatti il risultato come percentuale"._ |
 
-> [!NOTE]
-> **Richiesta creata**:
+> [!NOTE]  
+> **Richiesta creata**:  
 >
-> _Spiegare la formula dalla colonna J della tabella 'Table1' nel foglio di calcolo di Excel. È necessario comprendere come calcola l'engagement degli utenti. Specificare una spiegazione dettagliata della formula, inclusi gli argomenti e la sintassi relativi. Suggerire formule aggiuntive utili per determinare il ritorno sull'investimento._
+> _Suggerire una formula in modo che la colonna J calcoli il rapporto di engagement di ogni campagna. Usare i valori di "Utenti con engagement" e "Utenti di destinazione totali". Assicurarsi che la formula divida gli "Utenti con engagement" dagli "Utenti di destinazione totali" e formatti il risultato come percentuale._  
 
-[![Screenshot dei risultati della richiesta creata usando Copilot in Excel.](../media/copilot-explain-formula-results-excel.png)](../media/copilot-explain-formula-results-excel.png#lightbox)
+![Screenshot dei risultati della richiesta creata usando Copilot in Excel.](../media/ask_copilot-explain-formula-results-excel.png)
 
 Copilot dispone di tutte le informazioni necessarie per fornire una risposta efficace grazie all'**obiettivo**, al **contesto**, all'**origine** e alle **aspettative** di questa richiesta.
 
 ## Esplora altro
 
-Usare questi prompt come punto di partenza. Copiarli e modificarli in base alle proprie esigenze. 
+Usare questi prompt come punto di partenza. Copiarli e modificarli in base alle proprie esigenze.
 
-- Calcolare il costo totale per prodotto in una nuova colonna. 
+- Calcolare il costo totale per prodotto in una nuova colonna.
 
-- Aggiungere una colonna che calcola il profitto totale per ogni campagna di marketing nel 2022. 
+- Aggiungere una colonna che calcola il profitto totale per ogni campagna di marketing nel 2022.
 
-- Aggiungere una colonna che calcola il numero di giorni dopo l'evento di lancio del prodotto. 
+- Aggiungere una colonna che calcola il numero di giorni dopo l'evento di lancio del prodotto.
 
 Per altre informazioni, vedere [Generare le colonne delle formule con Copilot in Excel](https://support.microsoft.com/office/generate-formula-columns-with-copilot-in-excel-d866d926-9791-4e5f-be2a-c6dd9e587a47).

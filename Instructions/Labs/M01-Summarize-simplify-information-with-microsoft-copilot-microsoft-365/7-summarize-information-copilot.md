@@ -1,16 +1,16 @@
+# Riassumere le informazioni su un argomento con Microsoft 365 Copilot Chat
 
-Microsoft 365 Business Chat combina la potenza dell'intelligenza artificiale (IA) alle app e ai dati di lavoro per esprimere al meglio la creatività, migliorare la produttività e perferzionare le competenze. Questa funzionalità, che può essere usata con app e contenuti diversi, permette di sfruttare la potenza dell'intelligenza artificiale con i dati di lavoro sicuri. La sua capacità di sintetizzare informazioni e di creare elementi da più origini contemporaneamente consente di rivolgersi a traguardi e obiettivi più ampi.
+Microsoft 365 Copilot Chat (Copilot Chat) combina la potenza dell'intelligenza artificiale (IA) alle app e ai dati di lavoro per esprimere al meglio la creatività, sbloccare la produttività e perferzionare le competenze. Questa funzionalità, che può essere usata con app e contenuti diversi, permette di sfruttare la potenza dell'intelligenza artificiale con i dati di lavoro sicuri. La sua capacità di sintetizzare informazioni e di creare elementi da più origini contemporaneamente consente di rivolgersi a traguardi e obiettivi più ampi.
 
-Al confronto, Copilot disponibile nelle app di Microsoft 365 come Word o PowerPoint, è strutturato in modo specifico per assistere l'utente **all'interno di una singola app**. Ad esempio, Copilot in Word è progettato per semplificare la stesura, la modifica e l'uso dei contenuti. In PowerPoint permette di creare presentazioni migliori. Tuttavia, con Microsoft 365 Business Chat, è possibile riunire tutti questi elementi in una nuova esperienza.
+Al confronto, Copilot disponibile nelle app di Microsoft 365 come Word o PowerPoint, è strutturato in modo specifico per assistere l'utente **all'interno di una singola app**. Ad esempio, Copilot in Word è progettato per semplificare la stesura, la modifica e l'uso dei contenuti. In PowerPoint permette di creare presentazioni migliori. Copilot Chat, invece, offre tutto questo in un'esperienza completamente nuova.
 
-È possibile accedere a Microsoft 365 Chat in diversi modi:
+È possibile accedere a Copilot Chat in diversi modi:
 
-- Usare Microsoft 365 Business Chat nelle versioni desktop e per dispositivi mobili di Microsoft Teams. Vedere [Usare Microsoft 365 Business Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)
+- Usare Copilot Chat nelle versioni desktop e per dispositivi mobili di Microsoft Teams. Vedere [Usare Copilot Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181).
 
-- Accedere a Microsoft 365 Business Chat all'indirizzo Microsoft.com/copilot. Vedere [Usare Microsoft 365 Business Chat all'indirizzo Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- Accedere a Copilot Chat all'indirizzo Microsoft365.com/copilot. Vedere [Usare Copilot Chat all'indirizzo Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f).
 
-![Screenshot dell'esperienza chat di Copilot in Teams](../media/copilot-chat-experience-teams.png)
-
+![Screenshot dell'esperienza Copilot Chat in Teams.](../media/summarize_copilot-chat-experience-teams.png)
 
 ## Iniziamo a creare
 
@@ -22,7 +22,7 @@ Prima di tutto, scaricare e salvare i file seguenti nella cartella di **OneDrive
 
 - [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 
-Aprire l'esperienza di Business chat in Microsoft Teams e seguire le istruzioni che fanno riferimento ai file precedenti.
+Aprire Copilot Chat in Microsoft Teams e seguire le istruzioni che fanno riferimento ai file precedenti.
 
 > [!NOTE]
 > Richiesta iniziale:
@@ -33,17 +33,17 @@ In questa semplice richiesta, si parte dall'**obiettivo**di base: _riepilogare l
 
 | Elemento | Esempio |
 | :------ | :------- |
-| Richiesta di base: <br>Iniziare da un **Obiettivo** | **Trovare e compilare le informazioni sul nuovo frullato Protein Plus di Contoso.** |
-| Buona richiesta: <br>Aggiungere **Contesto** | Aggiungendo **Contesto** si può aiutare Copilot a capire l'obiettivo e a modificare la risposta di conseguenza.<br><br>"_...per una prossima revisione aziendale trimestrale. Abbiamo bisogno di un riepilogo generale, nonché di dettagli sulla campagna sui social media e sui prodotti concorrenti._" |
-| Richiesta migliore: <br>Specificare la/le **Fonte/i** | L'aggiunta di **origini** può aiutare Copilot a comprendere dove cercare informazioni e fornire una risposta più accurata.<br><br>"_Cercare le informazioni in **/Market Analysis Report for Mystic Spice Premium Chai Tea.docx**, **/Contoso Chai Tea market trends 2023.xlsx** e **/Market Trend Report - Protein shake.docx** per scrivere il riepilogo generale._" |
-| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, l'aggiunta di **Aspettative** può aiutare Copilot a comprendere come formattare il riepilogo e quale livello di dettaglio è necessario.<br><br>"_Il riepilogo deve sembrare professionale, con un tono positivo sui nostri ostacoli al rilascio. L'analisi competitiva deve includere anche collegamenti ai prodotti pertinenti in una tabella._" |
+| **Richiesta di base:** iniziare con un **obiettivo** | **Trovare e compilare le informazioni sul nuovo frullato Protein Plus di Contoso.** |
+| **Buona richiesta:** aggiungere **contesto** | Aggiungendo **Contesto** si può aiutare Copilot a capire l'obiettivo e a modificare la risposta di conseguenza. _"...per una prossima revisione aziendale trimestrale. Abbiamo bisogno di un riepilogo generale, nonché di dettagli sulla campagna sui social media e sui prodotti concorrenti."_ |
+| **Richiesta migliore:** specificare le **origini** | L'aggiunta di **origini** può aiutare Copilot a comprendere dove cercare informazioni e fornire una risposta più accurata. _"Cerca le informazioni in **/Market Analysis Report for Mystic Spice Premium Chai Tea.docx**, **/Contoso Chai Tea market trends 2023.xlsx** e **/Market Trend Report - Protein shake.docx** per scrivere il riepilogo generale."_ |
+| **Richiesta ottimale:** impostare **aspettative** chiare | Infine, l'aggiunta di **Aspettative** può aiutare Copilot a comprendere come formattare il riepilogo e quale livello di dettaglio è necessario. _"Il riepilogo deve sembrare professionale, con un tono positivo sui nostri ostacoli al rilascio. L'analisi competitiva deve includere anche collegamenti ai prodotti pertinenti in una tabella."_ |
 
 > [!NOTE]
 > **Richiesta creata**:
 >
 > _Trovare e compilare informazioni sul nuovo frullato Protein Plus di Contoso per una prossima revisione aziendale trimestrale. Abbiamo bisogno di un riepilogo esecutivo, nonché dettagli sulla campagna sui social media e sui prodotti concorrenti. Cercare informazioni in **/Market Analysis Report for Mystic Spice Premium Chai Tea.docx**, **/Contoso Chai Tea market trends 2023.xlsx** e **/Market Trend Report - Protein shake.docx** per scrivere il riepilogo esecutivo. Il riepilogo deve sembrare professionale, con un tono positivo sui nostri ostacoli al rilascio. L'analisi competitiva deve includere anche collegamenti ai prodotti pertinenti in una tabella._
 
-[![Screenshot dei risultati della richiesta creata usando l'esperienza di chat Copilot in Teams. ](../media/copilot-chat-results-teams.png)](../media/copilot-chat-results-teams.png#lightbox)
+![Screenshot dei risultati della richiesta creata usando l'esperienza di chat Copilot in Teams. ](../media/summarize_copilot-chat-results-teams.png)
 
 Con l'indicazione dell'**obiettivo**, **del contesto**, **della fonte** e delle **aspettative**, Copilot ha tutto il necessario per dare un'ottima risposta.
 

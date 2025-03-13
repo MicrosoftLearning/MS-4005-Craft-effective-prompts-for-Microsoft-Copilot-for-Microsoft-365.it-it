@@ -1,3 +1,4 @@
+# Introduzione
 
 In questo modulo si apprenderà come elaborare richieste contestuali efficaci per Microsoft 365 Copilot per **riepilogare** informazioni nelle app di Microsoft 365. Se si vogliono migliorare le competenze per le richieste per Copilot, questo modulo fornisce le conoscenze e le tecniche per creare richieste che producono risultati accurati e utili da Microsoft 365 Copilot.
 

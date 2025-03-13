@@ -1,18 +1,20 @@
-Microsoft 365 Business Chat combina la potenza dell'intelligenza artificiale (IA) alle app e ai dati di lavoro per esprimere al meglio la creatività, migliorare la produttività e perferzionare le competenze. Questa funzionalità, che può essere usata con app e contenuti diversi, permette di sfruttare la potenza dell'intelligenza artificiale con i dati di lavoro sicuri. La sua capacità di sintetizzare informazioni e di creare elementi da più origini contemporaneamente consente di rivolgersi a traguardi e obiettivi più ampi.
+# Generare nuove idee, elenchi e report con Microsoft 365 Copilot Chat
 
-Al confronto, Copilot disponibile nelle app di Microsoft 365 come Word o PowerPoint, è strutturato in modo specifico per assistere l'utente **all'interno di una singola app**. Ad esempio, Copilot in Word è progettato per semplificare la stesura, la modifica e l'uso dei contenuti. In PowerPoint permette di creare presentazioni migliori. Business Chat, invece, offre tutto questo in un'esperienza completamente nuova.
+Microsoft 365 Copilot Chat (Copilot Chat) combina la potenza dell'intelligenza artificiale (IA) alle app e ai dati di lavoro per esprimere al meglio la creatività, sbloccare la produttività e perferzionare le competenze. Questa funzionalità, che può essere usata con app e contenuti diversi, permette di sfruttare la potenza dell'intelligenza artificiale con i dati di lavoro sicuri. La sua capacità di sintetizzare informazioni e di creare elementi da più origini contemporaneamente consente di rivolgersi a traguardi e obiettivi più ampi.
 
-È possibile accedere a Business Chat in diversi modi:
+Al confronto, Copilot disponibile nelle app di Microsoft 365 come Word o PowerPoint, è strutturato in modo specifico per assistere l'utente **all'interno di una singola app**. Ad esempio, Copilot in Word è progettato per semplificare la stesura, la modifica e l'uso dei contenuti. In PowerPoint permette di creare presentazioni migliori. Copilot Chat, invece, offre tutto questo in un'esperienza completamente nuova.
 
-- Usare Copilot nelle versioni desktop e per dispositivi mobili di Microsoft Teams. Vedere [Usare Microsoft 365 Business Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)
+È possibile accedere a Copilot Chat in diversi modi:
 
-- Accedere a Microsoft 365 Business Chat all'indirizzo Microsoft.com/copilot. Vedere [Usare Microsoft 365 Business Chat all'indirizzo Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- Usare Copilot nelle versioni desktop e per dispositivi mobili di Microsoft Teams. Vedere [Usare Copilot Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181).
 
-![Screenshot dell'esperienza chat di Copilot in Teams](../media/copilot-chat-experience-teams.png)
+- Accedere a Copilot Chat all'indirizzo Microsoft.com/Copilot. Vedere [Usare Copilot Chat all'indirizzo Microsoft365.com/copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f).
+
+![Screenshot dell'esperienza Copilot Chat in Microsoft Teams.](../media/create_copilot-chat-experience-teams.png)
 
 ## Iniziamo a creare
 
-Usando il file **Contoso CipherGuard Product Specification.docx** da un'unità precedente, aprire Business Chat in Teams per lavorare alla richiesta successiva.
+Usando il file **Contoso CipherGuard Product Specification.docx** da un'unità precedente, aprire Copilot Chat in Teams per lavorare alla richiesta successiva.
 
 > [!NOTE]
 > Richiesta iniziale:
@@ -23,17 +25,17 @@ In questa semplice richiesta si inizia con l'**Obiettivo** di base: _creare l'ag
 
 | Elemento | Esempio |
 | :------ | :------- |
-| Richiesta di base: <br>Iniziare da un **Obiettivo** | **_Creare l'agenda di una riunione._** |
-| Buona richiesta: <br>Aggiungere **Contesto** | Aggiungendo **Contesto** si può aiutare Copilot a capire il motivo della riunione e gli argomenti di cui si desidera discutere.<br><br>"_...di una riunione con il cliente che duri un'ora, includendo gli obiettivi del progetto, la dichiarazione della mission e la data di completamento prevista_". |
-| Richiesta migliore: <br>Specificare la/le **Fonte/i** | Aggiungendo le **Origini** si può aiutare Copilot a capire dove cercare informazioni specifiche.<br><br>"_Usare le informazioni contenute nel file **/Contoso CipherGuard Product Specification.docx** e cercare gli elementi aperti e le domande senza risposta._" |
-| Richiesta ottimale: <br>Impostare delle **Aspettative** chiare | Infine, l'inclusione di **Aspettative** può aiutare Copilot a comprendere lo stile e la formattazione desiderati per il documento.<br><br>"_L'agenda dovrebbe essere in formato tabella con assegnazioni di tempo e prevedere una sessione finale in cui le persone possono porre domande._" |
+| **Richiesta di base:** iniziare con un **obiettivo** | **_Creare l'agenda di una riunione._** |
+| **Buona richiesta:** aggiungere **contesto** | L'aggiunta di **contesto** può aiutare Copilot a capire il motivo della riunione e gli argomenti di cui si desidera discutere. _"... per un incontro con un cliente della durata di un'ora, che deve includere gli obiettivi del progetto, la dichiarazione della mission e la data di completamento pianificata."_ |
+| **Richiesta migliore:** specificare le **origini** | Aggiungendo le **Origini** si può aiutare Copilot a capire dove cercare informazioni specifiche. _"Usare le informazioni contenute nel file **/Contoso CipherGuard Product Specification.docx** e cercare gli elementi aperti e le domande senza risposta."_ |
+| **Richiesta ottimale:** impostare **aspettative** chiare | Infine, l'inclusione di **Aspettative** può aiutare Copilot a comprendere lo stile e la formattazione desiderati per il documento. _"L'agenda dovrebbe essere in formato tabella con assegnazioni di tempo e prevedere una sessione finale in cui le persone possono porre domande."_ |
 
 > [!NOTE]
 > **Richiesta creata**:
 >
 > _Creare l'agenda di una riunione con il cliente che duri un'ora, includendo gli obiettivi del progetto, la dichiarazione della missione e la data di completamento prevista. Usare le informazioni contenute nel file **/Contoso CipherGuard Product Specification.docx** e cercare gli elementi aperti e le domande senza risposta. L'agenda deve essere in formato tabella con assegnazioni di tempo e prevedere una sessione finale in cui le persone possono porre domande._
 
-[![Screenshot dei risultati della richiesta creata rispetto al documento di esempio usando Copilot in Teams con la chat assistita da Graph.](../media/copilot-chat-draft-agenda-teams.png)](../media/copilot-chat-draft-agenda-teams.png#lightbox)
+![Eseguire uno screenshot dei risultati della richiesta creata rispetto al documento di esempio usando Copilot Chat in Teams.](../media/create_copilot-chat-draft-agenda-teams.png)
 
 Rivedere l'agenda e apportarvi eventuali modifiche o perfezionamenti, quindi aggiungerla all'invito alla riunione in Teams.
 
@@ -60,4 +62,4 @@ Eecco alcuni suggerimenti per altre richieste da provare. Copiarli e modificarli
 
 - Qual è la successiva attività cardine di [un progetto]? Ci sono rischi? Aiutare a sviluppare un elenco di alcuni possibili modi per attenuare il problema.
 
-- Scrivere una panoramica della pianificazione nello stile di [un file] che contiene la sequenza temporale da [un file diverso] e incorpora l'elenco di progetti nel messaggio di posta elettronica da [una persona]. 
+- Scrivere una panoramica della pianificazione nello stile di [un file] che contiene la sequenza temporale da [un file diverso] e incorpora l'elenco di progetti nel messaggio di posta elettronica da [una persona].
